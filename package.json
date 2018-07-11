@@ -13,6 +13,7 @@
     "babel-loader": "^8.0.0-beta.4",
     "babel-plugin-transform-es2015-constants": "^6.1.4",
     "query-string": "^6.1.0",
-    "webpack": "^4.16.0"
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8"
   }
 }
